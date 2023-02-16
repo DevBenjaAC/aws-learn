@@ -1,0 +1,76 @@
+Amazon Web Services
+    Sistema de decenas de servicios Web
+    Se utiliza en diferentes empresas
+
+Tiene localizacion en diferentes regiones por lo que es mas rapido
+
+Servicios de computacion
+    computacion
+    Almacenamiento
+    Base de Datos
+    Migracion
+    Redes y entrega de contenidos CDN 
+    Herramientas para desarrolladores
+    Servicios Moviles
+    Serivcios de aplicaciones
+    Sistemas de mensajeria
+    Productividad empresarial
+    streaming de aplicaciones y escritorios
+    IOT
+    Desarrollos de Videojuegos
+
+    Diferencias entre Hosting Tradicional y AWS.
+    
+        Host tradicional 
+            Nos asignan un servidor 
+            Precio fijo
+            Pago normalmente mensual
+
+        AWS 
+        Consola web o API 
+        lanzar instancias de manera automatica para desplegar hardware
+        Podemos desplegar maquinas virtuales pequenas y sencillas o poderosas
+        pagamos unicamente el tiempo efectivo de trabajo unicamente de los servicios usados.
+        firewall
+        redes privadas
+        uvpn
+        software de diferentes ambitos pagando unicamente por horas
+        etc 
+        confianza
+        facilidad
+
+Iaas, PaaS, SaaS.
+    Esto es _ como servicio.
+
+    infrestuctura
+    plataforma
+    software 
+
+    Iaas 
+        Hosting tradicional trasladado a la virtualizacion 
+            Instancias 
+            Almacenamiento 
+            VPC 
+            VPN
+    
+    Paas 
+        Insertar nuestra aplicacion y olvidarnos como funciona
+            elastic
+        
+    SaaS 
+        Licencia de software por horas o meses
+            aws marketplace 
+                totalmente gratuito
+                pagado por horas o meses o minutos
+            
+PRECIOS 
+    Unicamente pagamos por recursos usados.
+        /pricing
+        /services 
+    Existe una capa gratuito de un anio 
+
+    
+Consola.
+
+
+
